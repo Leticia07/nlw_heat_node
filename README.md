@@ -4,14 +4,14 @@ This project was developed during Next Level Week Heat 2021
 
 ## Technologies/Dependencies
 - [Express](https://expressjs.com/)
-- [Prisma] (https://prisma.io/)
-- [Dotenv] (https://www.npmjs.com/package/dotenv)
-- [Cors] (https://www.npmjs.com/package/cors)
-- [Jsonwebtoken] (https://www.npmjs.com/package/jsonwebtoken)
-- [Jsonwebtoken] (https://www.npmjs.com/package/jsonwebtoken)
-- [Socket.io] (https://socket.io/)
-- [Axios] (https://github.com/axios/axios)
-- [TypeScript] (https://www.typescriptlang.org/)
+- [Prisma](https://prisma.io/)
+- [Dotenv](https://www.npmjs.com/package/dotenv)
+- [Cors](https://www.npmjs.com/package/cors)
+- [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+- [Socket.io](https://socket.io/)
+- [Axios](https://github.com/axios/axios)
+- [TypeScript](https://www.typescriptlang.org/)
 - [VS Code][vc]
 
 ## How To Use
