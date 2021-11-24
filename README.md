@@ -18,7 +18,7 @@ This project was developed during Next Level Week Heat 2021
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher installed on your computer. From your command line:
 
-To run both mobile and web, first start the server
+To run the server
 
 ```bash
 # Clone this repository
